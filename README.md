@@ -58,3 +58,4 @@ A bot célja **oldalazó piacokban profitot termelni**, miközben **trend eseté
 - Könyvtárak:
   ```bash
   pip install ccxt pandas
+```pip install -r requirements.txt```
