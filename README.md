@@ -59,3 +59,5 @@ A bot célja **oldalazó piacokban profitot termelni**, miközben **trend eseté
   ```bash
   pip install ccxt pandas
 ```pip install -r requirements.txt```
+## Jogi nyilatkozat
+EA SZOFTVERT SAJÁT FELELŐSSÉGRE HASZNÁLJA. A SZERZŐK ÉS MINDEN PARTNERE NEM VÁLLAL FELELŐSSÉGET A KERESKEDELMI EREDMÉNYEKÉRT. Ne kockáztasson olyan pénzt, amelyet fél elveszíteni. Lehetnek hibák a kódban - ehhez a szoftverhez NEM jár garancia.
